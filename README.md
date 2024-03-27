@@ -53,3 +53,6 @@ Affiliated_base_num : The TLC base company code affiliated with the Uber
 pickup
 
 locationID : The pickup location ID affiliated with the Uber pickup
+
+![image](https://github.com/saitejasaii009/Uber-Pickups-Analysis/assets/141951090/8e59f156-b7d7-4731-b69a-0cb8afdace6e)
+
